@@ -2,7 +2,7 @@
 
 ### tl;dr
 
-An idea for open source developers to make a real income for their work. No matter how little or much you have contributed: If your code is being used, you are getting paid. 
+An idea for open source developers to make a real income for their work. No matter how little or much you have contributed: If your code is being used, you are getting paid. \
 The only catch: this needs big support from the open source community to come to life. 
 
 ### Problem (Status Quo):
@@ -17,7 +17,7 @@ Those who are prompted to fill out the survey but not developing for a big compa
 When FooBarSaaS company is running their package installer _yarn_ to update their SaaS-App, _yarn_ is prompting them (once a year) to fill out a short survey. As they are highly profitable and this project alone made them 3m in profits last year, they are prompted to pay $200 for that year. They decide to overspend and pay three times the amount, earning them a special "gold status open source supporter 2025" badge they can put on their website. 
 
 ### Context:
-This idea is part of a larger idea: EOT. A new kind of organization that has no owners but instead distributes all profits between its contributors. No employees, everyone is an entrepreneur but at the same time part of a team. The two ideas are not dependent on each other, but they can join forces on many projects, like the contribution-calculation-algorithm. [Read about EOT here >>](https://github.com/EOT-Projects/.github)
+This idea is part of a larger idea: EOT. A new kind of organization that has no owners but instead distributes all profits between its contributors. No employees, everyone is an entrepreneur but at the same time part of a team. The two ideas are not dependent on each other, but they can join forces on many projects, like the contribution-calculation-algorithm. [Read about EOT Organisation here >>](https://github.com/EOT-Projects/EOT-Organisation#readme)
 
 ### Calculation in short:
 - the goal is to calculate how much value each contribution brought into a project. Awarded is not the amount of code but rather the improvement that was made. 
