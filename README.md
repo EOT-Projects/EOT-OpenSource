@@ -51,9 +51,9 @@ There are a lot of questions still open, that should be answered together. Here 
 
 
 
-Next Steps: 
-- Spreading the word. Halleluja, Halleluja.
-- [#2 Survey of companies: Who would be willing to pay and how much](https://github.com/EOT-Projects/EOT-OpenSource/issues/2)
+### Next Steps: 
+- Spreading the word. Halleluja, Halleluja. ;) 
+- [#2 Survey of companies: Who would be willing to contribute and how much](https://github.com/EOT-Projects/EOT-OpenSource/issues/2)
 - Deciding on a first draft for the [#4 calculation algorithm](https://github.com/EOT-Projects/EOT-OpenSource/issues/4)
 - Calculation: building an interface for developers feedback [#5](https://github.com/EOT-Projects/EOT-OpenSource/issues/5)
 
